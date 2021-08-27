@@ -1,0 +1,27 @@
+wordCount
+wordCount wrong
+distWords 
+distWords wrong
+charCount
+charCount wrong
+frequentWord
+frequentWord wrong
+countWord
+countWord that
+countWord fog
+countWord yes
+countWord order
+countWord were
+countWord stallman
+starting l
+starting se
+starting were
+containing is
+containing mm
+search am
+search no
+search xc
+search io
+search pp
+read
+noCommadShouldMatch
